@@ -1,4 +1,7 @@
-## Olá, eu sou o Anderson Costa!
+## Hi, I'm Anderson Costa.
+
+I am a Quality Assurance Analyst.
+
 <div align="center">
   
   <a href="https://github.com/aandersoncp">
